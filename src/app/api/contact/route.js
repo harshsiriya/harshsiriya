@@ -1,10 +1,12 @@
-import { google } from "googleapis";
-
 const credentialsBase64 = process.env.GOOGLE_CREDENTIALS_BASE64;
 
-if (!credentialsBase64) throw new Error("Missing Google credentials");
+if (!credentialsBase64) {
+  throw new Error("Missing GOOGLE_CREDENTIALS_BASE64 in environment variables");
+}
 
-const credentials = JSON.parse(Buffer.from(credentialsBase64, "base64").toString("utf8"));
+const credentials = JSON.parse(
+  Buffer.from(credentialsBase64, "base64").toString("utf-8")
+);
 
 const auth = new google.auth.GoogleAuth({
   credentials,
