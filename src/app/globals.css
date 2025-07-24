@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+body{
+  cursor: none;
+}
+
+* {
+  cursor: none !important;
+}
+
+.tiktok-sans {
+  font-family: "TikTok Sans", sans-serif;
+}
+
+.tiktok-sans-100 {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.tiktok-sans-300 {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.tiktok-sans-500 {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.tiktok-sans-700 {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.tiktok-sans-900 {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+/* Apply to both html and body to ensure coverage */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track {
+  background: #ff5e41;
+}
+
+html::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+  border-radius: 9999px;
+  border: 2px solid #ff5e41;
+}
+
+/* Firefox support */
+html,
+body {
+  scrollbar-width: thin;
+  scrollbar-color: #ffffff #ff5e41;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+  -webkit-text-fill-color: white !important;
+  background-color: transparent !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill:focus {
+  box-shadow: 0 0 0px 1000px transparent inset !important;
+  -webkit-text-fill-color: white !important;
+  caret-color: white !important;
+  transition: background-color 9999s ease-in-out 0s;
+}
+
+
