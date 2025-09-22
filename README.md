@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+👋 Hi, I'm Harsh Siriya
 
-## Getting Started
+💻 React + Next.js Developer | Full-Stack Enthusiast | Problem Solver
 
-First, run the development server:
+⚡ Passionate about building scalable, responsive, and user-centric web applications using modern JavaScript frameworks.
+🎯 Focused on clean code, performance optimization, and seamless UI/UX.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✨ Frontend: React.js, Next.js, Redux, Tailwind CSS, Framer Motion
+⚡ Backend: Node.js, Express.js, Java Spring Boot
+🗄️ Databases: MongoDB, MySQL, PostgreSQL
+🛠️ Other Tools: Git, Docker, REST APIs, GraphQL
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🏆 What I Do
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+✅ Build modern web applications with React & Next.js
+✅ Create pixel-perfect, responsive UIs with Tailwind CSS
+✅ Implement smooth animations using Framer Motion
+✅ Integrate APIs & backend services for real-world apps
+✅ Write clean, maintainable code with performance in mind
 
-## Learn More
+🌟 Featured Projects
 
-To learn more about Next.js, take a look at the following resources:
+🔹 My Portfolio
+ – Personal portfolio built with Next.js & Tailwind CSS
+🔹 React Animations Showcase
+ – Smooth scroll & UI transitions with Framer Motion
+🔹 Full-Stack App
+ – MERN/Next.js app with authentication & dashboards
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📬 Let’s Connect
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🌐 Portfolio: [harshsiriya.dev](https://harshsiriya.vercel.app/)
 
-## Deploy on Vercel
+💼 LinkedIn: [linkedin.com/in/harshsiriya](https://www.linkedin.com/in/harsh-siriya-19b218224/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔥 Always learning, always building.
